@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\201314333_Tarea3\201314333_CasaDeCambio\201314333_CasaDeCambio\bin\Debug\201314333_CasaDeCambio.exe.config
+C:\Users\hp\Desktop\201314333_Tarea3\201314333_CasaDeCambio\201314333_CasaDeCambio\bin\Debug\201314333_CasaDeCambio.exe
+C:\Users\hp\Desktop\201314333_Tarea3\201314333_CasaDeCambio\201314333_CasaDeCambio\bin\Debug\201314333_CasaDeCambio.pdb
+C:\Users\hp\Desktop\201314333_Tarea3\201314333_CasaDeCambio\201314333_CasaDeCambio\bin\Debug\201314333_CasaDeCambio.xml
+C:\Users\hp\Desktop\201314333_Tarea3\201314333_CasaDeCambio\201314333_CasaDeCambio\obj\Debug\201314333_CasaDeCambio.vbproj.AssemblyReference.cache
+C:\Users\hp\Desktop\201314333_Tarea3\201314333_CasaDeCambio\201314333_CasaDeCambio\obj\Debug\201314333_CasaDeCambio.vbproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\201314333_Tarea3\201314333_CasaDeCambio\201314333_CasaDeCambio\obj\Debug\_201314333_CasaDeCambio.Form1.resources
+C:\Users\hp\Desktop\201314333_Tarea3\201314333_CasaDeCambio\201314333_CasaDeCambio\obj\Debug\_201314333_CasaDeCambio.Resources.resources
+C:\Users\hp\Desktop\201314333_Tarea3\201314333_CasaDeCambio\201314333_CasaDeCambio\obj\Debug\201314333_CasaDeCambio.vbproj.GenerateResource.cache
+C:\Users\hp\Desktop\201314333_Tarea3\201314333_CasaDeCambio\201314333_CasaDeCambio\obj\Debug\201314333_CasaDeCambio.vbproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\201314333_Tarea3\201314333_CasaDeCambio\201314333_CasaDeCambio\obj\Debug\201314333_CasaDeCambio.exe
+C:\Users\hp\Desktop\201314333_Tarea3\201314333_CasaDeCambio\201314333_CasaDeCambio\obj\Debug\201314333_CasaDeCambio.xml
+C:\Users\hp\Desktop\201314333_Tarea3\201314333_CasaDeCambio\201314333_CasaDeCambio\obj\Debug\201314333_CasaDeCambio.pdb
+C:\Users\hp\Desktop\201314333_Tarea3\201314333_CasaDeCambio\201314333_CasaDeCambio\obj\Debug\_201314333_CasaDeCambio.Form2.resources
